@@ -1,0 +1,30 @@
+Darkbomb;2;1
+Darkbomb;2;1
+FireBall;4;2
+FireBall;4;2
+Consecration;4;3
+Flamestrike;7;4
+Arcane Intellect;3;5
+Arcane Intellect;3;5
+Shiv;2;6
+Polymorph;4;7
+Mind Blast;2;8
+Chillwind Yeti;4;4;5;0
+Chillwind Yeti;4;4;5;0
+Stonetusk Boar;1;1;1;1
+Bloodfen Raptor;2;3;2;0
+Bloodfen Raptor;2;3;2;0
+River Crocolisk;2;2;3;0
+River Crocolisk;2;2;3;0
+Magma Rager;3;5;1;0
+Razorfen Hunter;3;2;3;3
+Gnomish Inventor;4;2;4;2
+Oasis Snapjaw;4;2;7;0
+Boulderfist Ogre;6;6;7;0
+Boulderfist Ogre;6;6;7;0
+Spider Tank;3;3;4;0
+Kor'kron Elite;4;4;3;1
+Wisp;0;1;1;0
+Bluegill Warrior;2;2;1;1
+Magic Cow;5;3;2;5
+Magic Cow;5;3;2;5
